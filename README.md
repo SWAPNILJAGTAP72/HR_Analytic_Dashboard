@@ -1,5 +1,4 @@
 # HR_Analytic_Dashboard
-I apologize for the lengthy response earlier. Here are the key insights from the HR Analytics Dashboard in 5 concise bullet points:
 
 • High attrition in younger workforce: The 26-35 age group shows the highest attrition (111 employees), indicating a need to focus on retaining younger talent.
 
